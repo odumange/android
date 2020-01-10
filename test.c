@@ -2,6 +2,7 @@
 
 int main()
 {
+	// commentaire ajouté
   printf("Coucou") ;
   return 0 ;
 }
